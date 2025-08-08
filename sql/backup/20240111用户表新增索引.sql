@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX ud_user_name ON tz_user(user_name);

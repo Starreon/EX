@@ -1,0 +1,1 @@
+ALTER TABLE tz_withdraw_order ADD COLUMN device_ip varchar(64)  DEFAULT NULL;

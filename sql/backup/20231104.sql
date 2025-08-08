@@ -1,0 +1,1 @@
+INSERT INTO `T_SYSPARA`(`UUID`, `CODE`, `PARTY_ID`, `SVALUE`, `SORDER`, `STYPE`, `NOTES`, `MODIFY`) VALUES ('perpetual_contracts', 'perpetual_contracts', NULL, '0', 100, 2, '永续合约杠杆配置(开仓价格手续费是否会乘以杠杆倍数)开关 0 会,1不会', 0);
